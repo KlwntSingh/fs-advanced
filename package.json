@@ -1,6 +1,6 @@
 {
   "name": "fs-advanced",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Light weight wrapper for fs module with functinality of moving, copying, deleting directory recursively synchronously and asynchronously. ",
   "main": "index.js",
   "scripts": {
