@@ -1,0 +1,30 @@
+{
+  "name": "fs-advanced",
+  "version": "1.0.0",
+  "description": "Light weight wrapper for fs module with functinality of moving, copying, deleting directory recursively synchronously and asynchronously. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "fs",
+    "recursivelyfs",
+    "advancedfs",
+    "fsadvanced",
+    "fs-advanced",
+    "directory"
+  ],
+  "author": "klwntsingh",
+  "license": "MIT",
+  "dependencies": {
+    "for-io": "^1.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/KlwntSingh/fs-advanced"
+  }
+}
