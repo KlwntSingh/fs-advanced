@@ -13,33 +13,45 @@ Light weight wrapper for fs module with functionality of moving, copying, deleti
 fs-advanced exposes over 13 file/directoies related functions.
 
 * mkdir - 
-	> To make directory asynchronoulsy
+	> To make directory asynchronoulsy.
+
 * copyFile - 
     > To copy asynchronously file executes callback function when copy is finished.
+
 * rm -
 	> To remove file asynchronously.
+
 * rmSync -
 	> To remove file Synchronously.
+
 * rmdir - 
 	> To remove directory asynchronously.
+
 * rmdirSync - 
-	> To remove folder Synchronously
+	> To remove folder Synchronously.
+
 * copydirR -
 	> copy directory recursively to folder and takes the callback Function.
+
 * movedirR - 
     > To move folder recursively asynchronously.
+
 * rmdirR - 
 	> To remove files and folders recursively and executes callback.
+
 * rmdirSyncR -
 	> To remove files and folders recursively Synchronously.
+
 
 <br>
 ###### The following 3 functions are the main reason for developing the package - 
 
 * rmfilesR -
 	> To remove only files from folders recursively and call callback function.
+
 * rmfilesSyncR - 
 	> To remove only files from folders recursively Synchronously.
+
 * mkdirStructure - 
 	> Making Directory-Structure specified by json.
 	
